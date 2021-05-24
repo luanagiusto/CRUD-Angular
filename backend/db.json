@@ -1,0 +1,44 @@
+{
+  "products": [
+    {
+      "id": 2,
+      "name": "Caderno 10 matérias",
+      "price": 12.49
+    },
+    {
+      "id": 3,
+      "name": "Notebook Lenovo",
+      "price": 3500.49
+    },
+    {
+      "name": "Veio do formulario",
+      "price": "3.33",
+      "id": 5
+    },
+    {
+      "name": "Leite Ninho",
+      "price": "2.49",
+      "id": 6
+    },
+    {
+      "name": "Régua",
+      "price": "1.99",
+      "id": 7
+    },
+    {
+      "name": "Cola bastão",
+      "price": "5.39",
+      "id": 8
+    },
+    {
+      "name": "Lapiseira 0.5mm",
+      "price": "4.78",
+      "id": 9
+    },
+    {
+      "name": "Agenda 2021",
+      "price": "19.99",
+      "id": 10
+    }
+  ]
+}

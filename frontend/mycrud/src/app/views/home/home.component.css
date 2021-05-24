@@ -1,0 +1,14 @@
+/* 
+rem fonte se baseia na sua pagina inteira
+em fonte se baseia no tamanho anterior
+*/
+
+.home .title {
+    font-size: 3rem; 
+    font-weight: 300;
+    line-height: 1.2;
+}
+
+.home .subtitle {
+    font-size: 1.1rem;
+}
