@@ -16,47 +16,38 @@
       "price": 3500.49
     },
     {
-<<<<<<< HEAD
       "name": "Apontador",
-=======
-      "name": "Lápis 6B",
->>>>>>> 086c431a7e80b86b301a23a2cd13fe318ddfd406
-      "price": "3.33",
+      "price": 3.33,
       "id": 5
     },
     {
-<<<<<<< HEAD
       "name": "Fichário",
-      "price": "24.89",
-=======
-      "name": "Apontador",
-      "price": "2.49",
->>>>>>> 086c431a7e80b86b301a23a2cd13fe318ddfd406
+      "price": 24.89,
       "id": 6
     },
     {
       "name": "Régua",
-      "price": "1.99",
+      "price": 1.99,
       "id": 7
     },
     {
       "name": "Cola bastão",
-      "price": "5.39",
+      "price": 5.39,
       "id": 8
     },
     {
       "name": "Lapiseira 0.5mm",
-      "price": "4.78",
+      "price": 4.78,
       "id": 9
     },
     {
       "name": "Agenda 2021",
-      "price": "19.99",
+      "price": 19.99,
       "id": 10
     },
     {
       "name": "Lápis 6B",
-      "price": "5.20",
+      "price": 5.20,
       "id": 11
     }
   ]
