@@ -16,13 +16,22 @@
       "price": 3500.49
     },
     {
+<<<<<<< HEAD
       "name": "Apontador",
+=======
+      "name": "Lápis 6B",
+>>>>>>> 086c431a7e80b86b301a23a2cd13fe318ddfd406
       "price": "3.33",
       "id": 5
     },
     {
+<<<<<<< HEAD
       "name": "Fichário",
       "price": "24.89",
+=======
+      "name": "Apontador",
+      "price": "2.49",
+>>>>>>> 086c431a7e80b86b301a23a2cd13fe318ddfd406
       "id": 6
     },
     {
