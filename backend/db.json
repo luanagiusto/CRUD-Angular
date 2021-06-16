@@ -1,6 +1,11 @@
 {
   "products": [
     {
+      "id": 1,
+      "name": "Caderno 4 matérias",
+      "price": 8.49
+    },
+    {
       "id": 2,
       "name": "Caderno 10 matérias",
       "price": 12.49
@@ -11,13 +16,13 @@
       "price": 3500.49
     },
     {
-      "name": "Veio do formulario",
+      "name": "Apontador",
       "price": "3.33",
       "id": 5
     },
     {
-      "name": "Leite Ninho",
-      "price": "2.49",
+      "name": "Fichário",
+      "price": "24.89",
       "id": 6
     },
     {
@@ -39,6 +44,11 @@
       "name": "Agenda 2021",
       "price": "19.99",
       "id": 10
+    },
+    {
+      "name": "Lápis 6B",
+      "price": "5.20",
+      "id": 11
     }
   ]
 }
